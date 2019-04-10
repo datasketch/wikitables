@@ -1,0 +1,7 @@
+id,label,ctype
+rank,Rank,Cat
+country_or_dependent_territory_,Country(or dependent territory),Cat
+population,Population,Cat
+date,Date,Cat
+__of_worldpopulation,% of worldpopulation,Cat
+source,Source,Cat

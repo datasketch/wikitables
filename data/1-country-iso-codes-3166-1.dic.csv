@@ -1,0 +1,7 @@
+id,label,ctype
+english_short_name__using_title_case_,English short name (using title case),Cat
+alpha_2_code,Alpha-2 code,Cat
+alpha_3_code,Alpha-3 code,Cat
+numeric_code,Numeric code,Num
+link_to_iso_3166_2_subdivision_codes,Link to ISO 3166-2 subdivision codes,Cat
+independent,Independent,Cat

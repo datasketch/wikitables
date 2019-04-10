@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554860865587.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B9B71F8B",
+    "lastKnownWriteTime" : 1554866431,
+    "last_content_update" : 1554866431047,
+    "path" : "~/dsrepo/wikipedia-tables/get-tables.R",
+    "project_path" : "get-tables.R",
+    "properties" : {
+        "cursorPosition" : "18,3",
+        "marks" : "a:0,0\n<:17,25\n>:17,30",
+        "scrollLine" : "8",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

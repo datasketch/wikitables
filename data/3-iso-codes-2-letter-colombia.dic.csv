@@ -1,0 +1,5 @@
+id,label,ctype
+code,Code,Gcd
+subdivision_name__es_,Subdivision name (es),Gnm
+local_variant,Local variant,Cat
+subdivision_category,Subdivision category,Cat
