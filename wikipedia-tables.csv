@@ -1,5 +1,5 @@
 id,title,url,position,lang,ctypes,new_dic
 1,Country ISO codes 3166-1,https://en.wikipedia.org/wiki/ISO_3166-1,2,en,,TRUE
-2,List of serial killers by country and victims,https://en.wikipedia.org/wiki/List_of_serial_killers_by_number_of_victims,2,en,,TRUE
+2,List of serial killers by country and victims,https://en.wikipedia.org/wiki/List_of_serial_killers_by_number_of_victims,4,en,,TRUE
 3,Iso Codes 2 letter Colombia,https://en.wikipedia.org/wiki/ISO_3166-2:CO,1,en,Gcd-Gnm-Cat-Cat,TRUE
-4,List of countries and dependencies by population,https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population,1,en,,FALSE
+4,List of countries and dependencies by population,https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population,1,en,,TRUE

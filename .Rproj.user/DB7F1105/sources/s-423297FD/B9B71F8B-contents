@@ -7,7 +7,8 @@ tables <- read_csv("wikipedia-tables.csv")
 tabs <- transpose(tables)
 
 map(tabs, function(x){
-  #x <- tabs[[3]]
+  #x <- tabs[[2]]
+  message(x$url)
   tmp <- x$url %>%
     read_html %>%
     html_nodes("table")
@@ -21,8 +22,11 @@ map(tabs, function(x){
     dd <- make_dic(data, ctypes)
     data <- dd$data
     write_csv(dd$dic, paste0("data/", x$id,"-",mop::create_slug(x$title), ".dic.csv"))
+  }else{
+    #dic <- read_csv("")
+    #names(data) <-
   }
-  write_csv(dd$data, paste0("data/", x$id, "-", mop::create_slug(x$title), ".csv"))
+  write_csv(data, paste0("data/", x$id, "-", mop::create_slug(x$title), ".csv"))
 
 })
 

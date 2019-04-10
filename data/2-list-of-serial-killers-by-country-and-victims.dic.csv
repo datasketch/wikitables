@@ -1,3 +1,7 @@
 id,label,ctype
-x1,X1,___
-x2,X2,Cat
+name,Name,Cat
+country,Country,Cat
+years_active,Years active,Cat
+proven_victims,Proven victims,Num
+possible_victims,Possible victims,Cat
+notes,Notes,Cat
