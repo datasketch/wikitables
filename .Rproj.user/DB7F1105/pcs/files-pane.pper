@@ -1,9 +1,0 @@
-{
-    "path" : "~/dsrepo/wikipedia-tables",
-    "sortOrder" : [
-        {
-            "ascending" : true,
-            "columnIndex" : 2
-        }
-    ]
-}
