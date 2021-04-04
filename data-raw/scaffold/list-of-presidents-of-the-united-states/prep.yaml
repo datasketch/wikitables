@@ -1,0 +1,19 @@
+trim_rows:
+  last: 1
+select:
+  - presidency_a
+  - president
+  - party_b
+  - election
+  - vice_president
+separate:
+  what: presidency_a
+  sep: "-"
+  into: 
+    - from
+    - to
+format_date:
+  from: March 4, 1797
+  to: 2020-04-30
+validate_dic:
+  dic: dic.csv

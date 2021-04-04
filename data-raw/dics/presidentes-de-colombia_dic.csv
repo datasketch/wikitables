@@ -1,0 +1,8 @@
+id,label,hdType
+periodo,Período,___
+periodo,Período,Cat
+efigie,Efigie,___
+presidente,Presidente,Cat
+ciudades,Ciudades,Cat
+doctrina_politica,Doctrina Política,Cat
+comentarios,Comentarios,Cat

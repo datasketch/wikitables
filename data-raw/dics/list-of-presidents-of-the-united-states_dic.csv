@@ -1,0 +1,9 @@
+id,label,hdType
+presidency_a,Presidency[a],Cat
+presidency_a,Presidency[a],Cat
+president,President,Cat
+president,President,Cat
+party_b,Party[b],Cat
+party_b,Party[b],Cat
+election,Election,Cat
+vice_president,Vice President,Cat

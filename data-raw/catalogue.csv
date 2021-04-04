@@ -1,0 +1,8 @@
+slug,title,url,table,lang,status,notes
+brazil-top-goal-scorers,Brazil top goal scorers,https://en.wikipedia.org/wiki/Brazil_national_football_team,13,en,ok,
+country-iso-codes-3166-1,Country ISO codes 3166-1,https://en.wikipedia.org/wiki/ISO_3166-1,2,en,ok,
+iso-codes-2-letter-colombia,Iso Codes 2 letter Colombia,https://en.wikipedia.org/wiki/ISO_3166-2:CO,1,en,ok,
+list-of-countries-and-dependencies-by-population,List of countries and dependencies by population,https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population,1,en,ok,
+list-of-presidents-of-the-united-states,Lis of presidents of the United States,https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States,1,en,to_clean,parse dates and ranges
+list-of-serial-killers-by-country-and-victims,List of serial killers by country and victims,https://en.wikipedia.org/wiki/List_of_serial_killers_by_number_of_victims,4,en,ok,
+presidentes-de-colombia,Presidentes de Colombia,https://es.wikipedia.org/wiki/Anexo:Presidentes_de_Colombia,1-6,es,to_clean,multiples columns

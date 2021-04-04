@@ -1,0 +1,9 @@
+id,label,hdType
+,#,Num
+name,Name,Cat
+goals,Goals,Num
+caps,Caps,Num
+average,Average,Pct
+first_cap,First cap,Cat
+latest_cap,Latest cap,Cat
+position,Position,Cat

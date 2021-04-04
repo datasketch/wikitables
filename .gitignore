@@ -21,7 +21,8 @@ vignettes/*.pdf
 #*.Rproj
 .Rproj.user
 
-
-.~lock*
-
+.env
+tmp/*
+.DS_Store
+inst/move_existing_files.R
 
