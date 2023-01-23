@@ -6,6 +6,12 @@ test_that("multiplication works", {
   url <- "presidentes-de-colombia"
   d <- get_wikitable(url)
 
+  url <- "https://es.wikipedia.org/wiki/Departamentos_de_Guatemala"
+  d <- get_wikitable(url)
+  write.csv(d, "~/Downloads/deptos-guatemala.csv")
+
+
+
 })
 
 

@@ -6,7 +6,7 @@
 get_wikitable <- function(url, table = 1, html_nodes = NULL){
 
   if(!is_url(url)){
-    catalogue_list <- transpose(wikitables:::catalogue)
+    catalogue_list <- purrr::transpose(wikitables:::catalogue)
     l <- catalogue_list %>% keep(~ .$slug == url) %>% .[[1]]
     url <- l$url
     table <- l$table
@@ -16,9 +16,9 @@ get_wikitable <- function(url, table = 1, html_nodes = NULL){
     html_nodes <- read_wikitables_html(url)
   }
   tables <- table_range(table)
-  data <- map(tables, function(table){
+  data <- purrr::map(tables, function(table){
     rvest::html_table(html_nodes[[table]])
-  }) %>% bind_rows()
+  }) %>% dplyr::bind_rows()
   data
 }
 
