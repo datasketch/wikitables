@@ -1,7 +1,6 @@
 
 
 
-
 #' @export
 get_wikitable <- function(url, table = 1, html_nodes = NULL){
 

@@ -10,7 +10,8 @@ test_that("multiplication works", {
   d <- get_wikitable(url)
   write.csv(d, "~/Downloads/deptos-guatemala.csv")
 
-
+  url <- "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+  d <- get_wikitable(url)
 
 })
 
