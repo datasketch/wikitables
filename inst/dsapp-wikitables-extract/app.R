@@ -18,9 +18,11 @@ max-width: 600px;
 
 sample_urls <- c(
   "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States",
+  "https://en.wikipedia.org/wiki/List_of_countries_by_past_and_future_population_density",
   "https://en.wikipedia.org/wiki/List_of_international_goals_scored_by_Diego_Maradona"
 )
 names(sample_urls) <- c("Presidents of the United States",
+                        "Countries by past and future population",
                         "Maradonas' International goals")
 
 ui <- panelsPage(styles = css,

@@ -1,6 +1,6 @@
 Package: wikitables
 Title: Extract wikipedia tables.
-Version: 0.1.0.1
+Version: 0.1.1
 Authors@R: 
     person(given = "Juan Pablo",
            family = "Marin Diaz",
